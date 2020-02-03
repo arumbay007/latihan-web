@@ -1,0 +1,153 @@
+{
+    "produk": [
+	
+        {
+            "kategori": "jaket",
+            "nama": "Jeket Kulit",
+            "deskripsi": "Irisan sosis sapi, daging sapi cincang, burger sapi, sosis ayam.",
+            "harga": 49500,
+            "gambar": "jaket.jpg"
+        },
+        {
+            "kategori": "jaket",
+            "nama": "Jaket Kain",
+            "deskripsi": "Daging ayam dan sapi asap, daging sapi cincang, burger sapi, jamur, paprika merah dan paprika hijau.",
+            "harga": 49500,
+            "gambar": "jaket1.jpg"
+        },
+        {
+            "kategori": "jaket",
+            "nama": "Switter",
+            "deskripsi": "Irisan daging ikan tuna, butiran jagung, saus mayonnaise.",
+            "harga": 49500,
+            "gambar": "jaket2.jpg"
+        },
+        {
+            "kategori": "jaket",
+            "nama": "Jaket Tebal",
+            "deskripsi": "Pepperoni sapi, daging sapi cincang, jamur.",
+            "harga": 49500,
+            "gambar": "jaket3.jpg"
+        },
+        {
+            "kategori": "jaket",
+            "nama": "Jaket Cewek",
+            "deskripsi": "Pepperoni sapi, daging sapi cincang, jamur.",
+            "harga": 49500,
+            "gambar": "jaket4.jpg"
+        },		
+		
+		
+				
+        {
+            "kategori": "kaos",
+            "nama": "Kaos Oblong",
+            "deskripsi": "Pepperoni sapi, daging sapi cincang, jamur.",
+            "harga": 43000,
+            "gambar": "baju.jpg"
+        },
+        {
+            "kategori": "kaos",
+            "nama": "Kaos Krak",
+            "deskripsi": "Dipanggang, daging sapi cincang. krim putih lembut di tiap lapisan.",
+            "harga": 48000,
+            "gambar": "baju1.jpg"
+        },
+        {
+            "kategori": "kaos",
+            "nama": "Kaos Tipis",
+            "deskripsi": "Daging sapi asap dan jamur, ditumis dengan saus krim lembut.",
+            "harga": 43000,
+            "gambar": "baju2.jpg"
+        },
+		        {
+            "kategori": "kaos",
+            "nama": "Kaos Krak",
+            "deskripsi": "Dipanggang, daging sapi cincang. krim putih lembut di tiap lapisan.",
+            "harga": 48000,
+            "gambar": "baju3.jpg"
+        },
+        {
+            "kategori": "kaos",
+            "nama": "Kaos Tipis",
+            "deskripsi": "Daging sapi asap dan jamur, ditumis dengan saus krim lembut.",
+            "harga": 43000,
+            "gambar": "baju4.jpg"
+        },
+		
+		
+		
+        {
+            "kategori": "stiker",
+            "nama": "Stiker Bob Morley",
+            "deskripsi": "Bola daging sapi dengan saus daging sapi cincang dan jamur.",
+            "harga": 5000,
+            "gambar": "stiker.jpg"
+        },
+        {
+            "kategori": "stiker",
+            "nama": "Stiker Ngofa Ngare",
+            "deskripsi": "Ayam dengan saus lada hitam.",
+            "harga": 1000,
+            "gambar": "stiker1.jpg"
+        },
+        {
+            "kategori": "stiker",
+            "nama": "Stiker Vic",
+            "deskripsi": "Daging ayam berpadu dengan saus oriental.",
+            "harga": 40000,
+            "gambar": "stiker2.png"
+        },
+        {
+            "kategori": "stiker",
+            "nama": "Stiker Motor",
+            "deskripsi": "Ayam dengan saus lada hitam.",
+            "harga": 8000,
+            "gambar": "stiker3.png"
+        },
+        {
+            "kategori": "stiker",
+            "nama": "Stiker Musik",
+            "deskripsi": "Daging ayam berpadu dengan saus oriental.",
+            "harga": 5000,
+            "gambar": "stiker4.png"
+        },		
+		
+		
+        {
+            "kategori": "celana",
+            "nama": "Celana Panjang",
+            "deskripsi": "",
+            "harga": 24000,
+            "gambar": "celana.jpg"
+        },
+        {
+            "kategori": "celana",
+            "nama": "Celana Pendek",
+            "deskripsi": "",
+            "harga": 24000,
+            "gambar": "celana1.jpg"
+        },
+        {
+            "kategori": "celana",
+            "nama": "Celana Dalam",
+            "deskripsi": "",
+            "harga": 24000,
+            "gambar": "celana2.jpg"
+        },
+        {
+            "kategori": "celana",
+            "nama": "Celana Bola",
+            "deskripsi": "",
+            "harga": 24000,
+            "gambar": "celana3.jpg"
+        },
+        {
+            "kategori": "celana",
+            "nama": "Celana Wik Wik",
+            "deskripsi": "",
+            "harga": 24000,
+            "gambar": "celana4.jpg"
+        }
+    ]
+}
